@@ -1,7 +1,7 @@
 # Data Scientist
 
 ## About Me
-Residing in Delhi, IN with a passion for continuous learning and self-improvement. Looking forward to moving quickly and breaking stuff! My goal is to be one of the best data scientists on the planet, balancing rapid innovation with thoughtful execution.
+Residing in Delhi, IN with a passion for continuous learning and self-improvement. Looking forward to moving quickly and breaking stuff!
 
 ## Education
 - **B Tech**
