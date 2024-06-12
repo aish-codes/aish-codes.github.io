@@ -1,10 +1,10 @@
 # Data Scientist
 
-## About Me
+## <span style="color:#000080">About Me</span>
 Delhi, IN 
 Moves fast and breaks things 
 
-## Education
+## <span style="color:#000080">Education</span>
 - **B Tech**
   - **GGSIPU**
       - Electronics & Communication Engg
@@ -14,7 +14,7 @@ Moves fast and breaks things
       - STEM 
   - 2011
 
-## Skills
+## <span style="color:#000080">Skills</span>
 - **Programming Languages:** 
   - **R**
       - Started my journey to code with R. I'm skilled at R programming and can do data analysis, machine learning and automation
@@ -65,14 +65,14 @@ Moves fast and breaks things
   - **Power Automate**
   - **Power Apps**
 
-## Certifications
+## <span style="color:#000080">Certifications</span>
   - I will add more certifications to my credentials going forward. Meanwhile the below are the courses that have shaped my journey in Data Science
 
   - **Linear Algebra Lectures by Rachel Howard**
   - **Neural Networks by Andrej Karpathy**
   - **CS 25 by Stanford**
 
-## Work Experience
+## <span style="color:#000080">Work Experience</span>
 - **To The New Digital : 2015 Apr - 2015 Nov**
   - Started my work journey in non-tech role with my work involving analyzing social media data, manually tagging sentiments and assisting in creation of Powerpoint Reports for digital consultations   
 - **Grapes Digital : 2016 May - 2017 Oct**
@@ -83,7 +83,7 @@ Moves fast and breaks things
 - **EY GDS : 2020 Dec - Now** 
   - The EY experience has pushed me to learn and pick up new technologies where I've been able to upskill myself on most of the above mentioned skills.
 
-## Contact
+## <span style="color:#000080">Connect with me</span>
   - **Email:** [aishmooc@gmail.com](mailto:aishmooc@gmail.com)
   - **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/aishwaryasharma2/)
   - **Kaggle:** [Kaggle Profile](https://www.kaggle.com/aishwaryasharma1992)
