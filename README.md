@@ -25,9 +25,9 @@ Moves fast and breaks things
 
 - **Data Processing:** 
   - **MS Excel** 
-      - Can do most stuff but don't ask me about the macros !
+      - Can do most stuff but don't ask me about the macros
   - **Alteryx Expert**
-      - I can create complex Alteryx Macros, Alteryx Apps and publish them over gallery. Bascially a wizard with Alteryx !
+      - I can create complex Alteryx Macros, Alteryx Apps and publish them over gallery. Bascially a wizard with Alteryx
 
 - **Database:** 
   - **SQL**
@@ -47,7 +47,7 @@ Moves fast and breaks things
   - **Machine Learning** 
       - Adept at deploying machine learning solutions. For organisations, I've worked on solutions relating to Market Mix Modelling, Sales Forecasting, Healthcare Planning & Text Analytics 
   - **Neural Networks**
-      Have an in-depth understanding of RNNs, CNNs & experience of working on neural networks (thanks to Karpathy) for tasks relating to Image Processing & Natural Language Processing
+      - Have an in-depth understanding of RNNs, CNNs & experience of working on neural networks (thanks to Karpathy) for tasks relating to Image Processing & Natural Language Processing
   - **LLMs**
       - Building RAG based solutions has been the flavor for every organisation in 2023-24 and yes I did that too. The solution encompassed a retrieval memory alongside function calling of financial APIs. I was responsible for integrating the APIs and building the agent which based its action on user input. I'm well versed with Langchain, Langsmith and Azure environment for solution deployment
 
@@ -58,12 +58,12 @@ Moves fast and breaks things
     - Proficient in leveraging Azure AI services for building and deploying machine learning models & AI applications
 
 - **Version Control:** 
-  - Git
+  - **Git**
 
 - **MS Power Platforms:** 
-  - PowerBI
-  - Power Automate
-  - Power Apps
+  - **PowerBI**
+  - **Power Automate**
+  - **Power Apps**
 
 ## Certifications
   - I will add more certifications to my credentials going forward. Meanwhile the below are the courses that have shaped my journey in Data Science
@@ -71,6 +71,17 @@ Moves fast and breaks things
   - **Linear Algebra Lectures by Rachel Howard**
   - **Neural Networks by Andrej Karpathy**
   - **CS 25 by Stanford**
+
+## Work Experience
+- **To The New Digital : 2015 Apr - 2015 Nov**
+  - Started my work journey in non-tech role with my work involving analyzing social media data, manually tagging sentiments and assisting in creation of Powerpoint Reports for digital consultations   
+- **Grapes Digital : 2016 May - 2017 Oct**
+  - Here I pivoted to a role where I was mainly working on presentations and reports for business development. Yes I worked as a **sales guy !**
+  Still did not code anything 🙄
+- **GroupM : 2017 Nov - 2020 Nov**
+  - This is the place where I got introduced to analytics and R programming. I learnt R programming, data processing on Alteryx & SQL on the job. In hindsight this proved to be the pivotal moment in my data science journey 
+- **EY GDS : 2020 Dec - Now** 
+  - The EY experience has pushed me to learn and pick up new technologies where I've been able to upskill myself on most of the above mentioned skills.
 
 ## Contact
   - **Email:** [aishmooc@gmail.com](mailto:aishmooc@gmail.com)
